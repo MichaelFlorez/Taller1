@@ -1,0 +1,75 @@
+body{
+    display: block;
+    background-color:rgb(17, 17, 17);
+}
+
+h1{
+    text-align: center;
+    color:red;
+    font-size:50px;
+    
+}
+p{
+    display: flex;
+    justify-content: center;
+    color:whitesmoke;
+    font-size:20;
+
+}
+#image1{
+    display:block;
+    margin:auto;
+    border-style: double;
+    border-color: red;
+}
+h2{
+    text-align: center;
+    color:red;
+    font-size:30px;
+}
+#image2{
+    position: absolute;
+    left:400px;
+    border-style: double;
+    border-color: red;
+    width:200px;
+    height:150px;
+}
+#list{
+    position: absolute;
+    left:800px;
+    list-style-type: square;
+    justify-content: center;
+    color:whitesmoke;
+    font-size:20;
+}
+#Valor{
+    position: absolute;
+    left:740px;
+    width:100px
+}
+#Dato{
+    color:rgb(0, 0, 0);
+    position: absolute;
+    left:600px;
+}
+
+#calcular{
+    position: absolute;
+    left:680px;
+    
+}
+
+#Resultado{
+    color:rgb(0, 0, 0);
+    position: absolute;
+    left:630px;
+}
+#list2{
+    position: absolute;
+    left:100px;
+    list-style-type: square;
+    font-size:20;
+    font-weight:bold;
+    color:rgb(219, 219, 235);
+}
